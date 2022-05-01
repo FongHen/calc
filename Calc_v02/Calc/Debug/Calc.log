@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\USER\Desktop\Calc\Calc\Source.cpp(67,20): warning C4018: '<': signed/unsigned 不相符
+  Calc.vcxproj -> C:\Users\USER\Desktop\Calc\Debug\Calc.exe
